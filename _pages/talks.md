@@ -1,8 +1,10 @@
 ---
 layout: archive
-title: "Talks and Presentations"
+title: "Talks & Presentations"
 permalink: /talks/
 author_profile: true
+redirect_from:
+  - /talks
 ---
 
 {% include base_path %}
