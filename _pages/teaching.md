@@ -10,8 +10,8 @@ author_profile: true
 ## University of California, Riverside
 
 ### PBPL 002: Politics & Public Policy
-- ### Primary Instructor: Dr. Steven G. Brint (Distinguished Professor of Public Policy & Sociology)
-  -  ### My Role: Course Grader *(January - March 2021)*
+- #### Primary Instructor: Dr. Steven G. Brint (Distinguished Professor of Public Policy & Sociology)
+  -  ##### Course Grader *(January - March 2021)*
       -  Graded quizzes, research papers, midterm exams
       -  Handled academic misconduct casework
       -  Created research paper rubric(s)
