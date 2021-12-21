@@ -7,8 +7,6 @@ author_profile: true
 
 {% include base_path %}
 
-## PUBLICATIONS
-
 ### Peer-Reviewed Publications
 **Juturu, Preeti**. (2021). "Assessing emergency healthcare accessibility in the Salton Sea region of Imperial County, California." PLOS ONE. [https://doi.org/10.1371/journal.pone.0253301](https://doi.org/10.1371/journal.pone.0253301)
 
