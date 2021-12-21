@@ -15,7 +15,12 @@ Podcast episodes are available on [Spotify](https://open.spotify.com/show/5ENo5D
 
 The podcast is currently on hiatus due to logistical reasons and is in the process of expanding. If you are interested in getting involved and/or being a guest, please email [podcastpme@gmail.com](mailto:podcastpme@gmail.com). 
 
-## BlackLivesMatter Translation Project
+## #StopAsianHate Essay for Change
+In response to the racially-motivated violence against Asian communities in the United States at the start of the COVID-19 pandemic, I decided to enter a short, 500-word essay to the #StopAsianHate Essay Contest, an initiative supported by the NAACP, Asians Fighting Injustice and other AAPI empowerment groups. My essay, which can be viewed [here](https://aapistories.org/vote/ug-2-2 ), was selected as one of the finalist papers. In this short essay I discuss how the radicalization of “Asian-ness” and systemic violence leads to
+race-based violence, and how it should be addressed through transformative justice approaches.
+
+
+## Black Lives Matter Translation Project
 
 In light of the [2020 George Floyd protests](https://www.nytimes.com/article/george-floyd-protests-timeline.html) and racial tensions throughout the country, many mainstream news outlets began discussing social justice and how to better support the Black community. When engaging with the South Asian community in my hometown, especially non-native English speakers, I noticed a disconnect between South Asians and Black activism. 
 
