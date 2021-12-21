@@ -12,49 +12,45 @@ redirect_from:
 ## EDUCATION 
 
 ### Undergraduate Education
-**B.A.** 2018 - 2022. Economics, University of California, Riverside 
+**B.A.**  Public Policy & Economics; University of California, Riverside (2018 - 2022)
+* Concentrations in Urban/Environmental Policy, Health/Population Policy
 
-**B.A.** 2018 - 2022. Public Policy, University of California, Riverside (Concentrations in Urban/Environmental Policy, Health/Population Policy)
-
-**Visiting Student**. 2020. Public Policy & Political Science, University of California, Davis 
+**Visiting Student**. Public Policy & Political Science; University of California, Davis (2020)
 
 
 ## RESEARCH & TEACHING INTERESTS 
-Health Disparities; Environmental Justice; Urban/Regional Infrastructure (i.e. transit, housing, food systems, broadband, etc.); Community Development; Socioeconomic (In)equity; Quantitative & Qualitative Methods; Community-based Participatory Research (CBPR)
+Health Disparities; Environmental Justice; Political Geography; Urban/Regional Infrastructure; Community Development; Socioeconomic (In)equity; Quantitative & Qualitative Methods; Community-based Participatory Research (CBPR)
 
 ## EMPLOYMENT & APPOINTMENTS 
 
 ### Teaching 
 
-Course Grader, School of Public Policy. *PBPL002: Politics & Public Policy,* taught by Professor Steven G. Brint; Winter 2021. University of California, Riverside 
+* Course Grader, School of Public Policy. *PBPL002: Politics & Public Policy,* taught by Professor Steven G. Brint; Winter 2021. University of California, Riverside 
 
 ### Research 
 
-Project Manager & Coordinator, National Institutes of Health (NIH) Community Engagement Alliance (CEAL) STOP COVID-19 CA Project. Indigenous/Native American Engagement Team. University of California, Riverside School of Medicine (2021-Present)
-
-Researcher, UCR Center for Geospatial Sciences (CGS). University of California, Riverside (2020-Present)
-
-Research Assistant, UCR Center for Health Disparities Research (HDR@UCR). University of California, Riverside (2020-Present)
-
-Researcher, UC Center, Sacramento. University of California, Davis (2020)
+* **Project Manager & Research Coordinator**
+  * National Institutes of Health (NIH) Community Engagement Alliance (CEAL) STOP COVID-19 CA Project. Indigenous/Native American Engagement Team. University of California, Riverside School of Medicine (2021-Present)
+* **Researcher**
+  * UCR Center for Geospatial Sciences (CGS). University of California, Riverside (2020-Present)
+* **Research Assistant**
+  * UCR Center for Health Disparities Research (HDR@UCR). University of California, Riverside (2020-Present)
+* **Researcher**
+  * University of California Center, Sacramento. University of California, Davis (2020)
 
 ### Government/Non-Profit Work
 
-GIS Consultant, Independant/Self-employed. California (2021-Present)
-
-Legislative Intern, Health Access California. Sacramento, California (2020)
-
-Public Works Intern, Department of Public Works. Mountain House Community Services District, San Joaquin County (2019)
+* GIS Consultant, Independant/Self-employed. California (2021-Present)
+* Legislative Intern, Health Access California. Sacramento, California (2020)
+* Public Works Intern, Department of Public Works. Mountain House Community Services District, San Joaquin County (2019)
 
 
 ## PROFESSIONAL ACTIVITY
 
 ### Honors & Awards
-2021 Health Equity Scholar, California Initiative for Health Equity and Action (Cal-IHEA). University of California, Berkeley
-
-2021 Plenary Speaker, Harvard College National Collegiate Research Conference. Harvard University
-
-2020 Award Recipient, University of California Center, Sacramento Governance Fellow Award. University of California, Davis
+* 2021 Health Equity Scholar, California Initiative for Health Equity and Action (Cal-IHEA). University of California, Berkeley
+* 2021 Plenary Speaker, Harvard College National Collegiate Research Conference. Harvard University
+* 2020 Award Recipient, University of California Center, Sacramento Governance Fellow Award. University of California, Davis
 
 ### Grants & Research Awards
 Co-Investigator, Healthy Disruptions Podcast (Dr. Jennifer Syvertson, PI). University of California Humanities Research Institute (UCHRI), 2021-22 UCHRI Podcast Support Grant. Amount of $5,000. Grant from July 1, 2021 - December 31, 2022.
