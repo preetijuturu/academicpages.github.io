@@ -1,7 +1,19 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "#BlackLivesMatter Translation Project"
+excerpt: "Translating #BLM into South Asian Languages"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+Translations can be accessed via [https://tinyurl.com/sa-blm-translation](https://tinyurl.com/sa-blm-translation). 
+
+In light of the [2020 George Floyd protests](https://www.nytimes.com/article/george-floyd-protests-timeline.html) and racial tensions throughout the country, many mainstream news outlets began discussing social justice and how to better support the Black community. When engaging with the South Asian community in my hometown, especially non-native English speakers, I noticed a disconnect between South Asians and Black activism. 
+
+Systems of oppression in the United States, driven by white supremacy and its various manifestations, directly impact and harm people of color. Colorist attitudes and historic trauma associated with darker skin tones are prominent among South Asians as a result of Euro-colonialism. Holding colorist and therefore anti-Black sentiments perpetuate anti-Blackness within the South Asian community, furthering the divide between the Black community and South Asians in America. This project aims to dismantle the linguistic barrier that English may pose in making activist slogans more widely accessible within the South Asian community. In collaboration with my colleagues at the University of California, Riverside (current students and alumni) in addition to friends and associates within my hometown, we were able to collect and create a variety of translations for "Black Lives Matter" into 15 commonly spoken South Asian languages in the United States. 
+
+By creating linguistically and culturally accessible versions of the phrase "Black Lives Matter" and incorporating them into the "mainstream activist" toolkit, Black Lives Matter may become normalized and relatable to those who read and speak the translated languages. These translations would also act as a resource for South Asian individuals to use and distribute among their families and communities so they may engage in larger conversations about dismantling anti-Blackness in the South Asian community and help educate individuals on racism against Black people. 
+
+The project has resulted in a series of infographics that can be posted via social media or shared via instant messenger that state "Black Lives Matter" in a variety of languages spoken in and/or indigenous to the South Asian subcontinent. Infographics can be accessed [here](https://tinyurl.com/sa-blm-translation). These graphics have been distributed among community members primarily affiliated with the University of California, Riverside and individuals in my hometown. It is important to note that these infographics have been sent to South Asian immigrants in particular, and have been the topic of engagement in a variety of community online forums. Many young people have also distributed the graphics via social media as a symbolic act of Black/South Asian solidarity.
+
+It is also important to note that certain terms in many languages have negative connotations due to structural racism in linguistic development. The word "black" may have a negative or derogatory connotation even when being used in a neutral or objective context. The selected translations attempt to use words for "black" that do not have negative connotations. However, considering that the issue of word connotation is a socio-linguistic phenomenon, it is challenging and almost impossible to find translations for the word "black" that has a neutral or positive connotation. 
+
+This project is ongoing, and individuals interested in contributing more translations can contact me via [email](mailto:pjutu001@ucr.edu) with a translation of Black Lives Matter. I also invite individuals to send updated or alternative translations for current translations that may be more colloquial or easily understood. 
