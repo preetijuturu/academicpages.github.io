@@ -11,7 +11,7 @@ author_profile: true
 
 ### PBPL 002: Politics & Public Policy
 - #### Primary Instructor: Dr. Steven G. Brint (Distinguished Professor of Public Policy & Sociology)
-  -  ##### Course Grader *(January - March 2021)*
+  -  ##### My Role: Course Grader *(January - March 2021)*
       -  Graded quizzes, research papers, midterm exams
       -  Handled academic misconduct casework
       -  Created research paper rubric(s)
