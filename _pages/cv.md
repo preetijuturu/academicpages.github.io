@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-## EDUCATION 
+## Education 
 
 ### Undergraduate Education
 **B.A.**  Public Policy & Economics; University of California, Riverside (2018 - 2022)
@@ -18,10 +18,10 @@ redirect_from:
 **Visiting Student**. Public Policy & Political Science; University of California, Davis (2020)
 
 
-## RESEARCH & TEACHING INTERESTS 
+## Research & Teaching Interests 
 Health Disparities; Environmental Justice; Political Geography; Urban/Regional Infrastructure; Community Development; Socioeconomic (In)equity; Quantitative & Qualitative Methods; Community-based Participatory Research (CBPR)
 
-## EMPLOYMENT & APPOINTMENTS 
+## Employment & Appointments
 
 ### Teaching 
 
@@ -45,7 +45,7 @@ Health Disparities; Environmental Justice; Political Geography; Urban/Regional I
 * Public Works Intern, Department of Public Works. Mountain House Community Services District, San Joaquin County (2019)
 
 
-## PROFESSIONAL ACTIVITY
+## Professional Activity 
 
 ### Honors & Awards
 * 2021 Health Equity Scholar, California Initiative for Health Equity and Action (Cal-IHEA). University of California, Berkeley
@@ -55,7 +55,11 @@ Health Disparities; Environmental Justice; Political Geography; Urban/Regional I
 ### Grants & Research Awards
 Co-Investigator, Healthy Disruptions Podcast (Dr. Jennifer Syvertson, PI). University of California Humanities Research Institute (UCHRI), 2021-22 UCHRI Podcast Support Grant. Amount of $5,000. Grant from July 1, 2021 - December 31, 2022.
 
-## PUBLICATIONS
+### Organizational & Professional Affiliations 
+* Member. American Anthropological Association. Sections: Culture and Agriculture, Society for Medical Anthropology, National Association of Student Anthropologists. (2021-Present)
+* Member. American Planning Association. Divisions: Economic Development, Food Systems, Small Town and Rural Planning, Transportation, Environment, Natural Resources and Energy (2020-Present)
+
+## Publications
 
 ### Peer-Reviewed Publications
 **Juturu, Preeti**. (2021). "Assessing emergency healthcare accessibility in the Salton Sea region of Imperial County, California." PLOS ONE. [https://doi.org/10.1371/journal.pone.0253301](https://doi.org/10.1371/journal.pone.0253301)
@@ -79,7 +83,7 @@ Lo, David, **Preeti Juturu**, and Isabelle Swanson. “Asthma at the Salton Sea:
 
 Foruzan, Sahar, **Preeti Juturu**, and Isabelle Swanson. “Air quality and environmental health in the Salton Sea region of California: a scoping review.” In-progress.
 
-## CONFERENCE & SYMPOSIUM PRESENTATIONS  
+## Conference & Symposium Presentations  
 
 ### Invited Presentations
 
@@ -101,7 +105,7 @@ Foruzan, Sahar, **Preeti Juturu**, and Isabelle Swanson. (2021). “Story Maps: 
 
 “Measuring Spatial Accessibility, the PySAL Spatial Access Package and Using Access in Policy Analysis”, Presenter. (2020). UCR Center for Geospatial Sciences. University of California, Riverside. 
 
-## SERVICE & AFFILIATIONS
+## Service & Other
 
 ### Institutional Service
 * Editorial Board Member, University of California, Riverside Undergraduate Student Research Journal (2021-Present)
@@ -110,8 +114,6 @@ Foruzan, Sahar, **Preeti Juturu**, and Isabelle Swanson. (2021). “Story Maps: 
 * School of Public Policy Senator. Associated Students of the University of California, Riverside (2019-2020)
 * Committee Member. UC Riverside Counts, Census Counts Committee (2019-2020)
 
-### Organizational & Professional Affiliations 
-* Member. American Anthropological Association. Sections: Culture and Agriculture, Society for Medical Anthropology, National Association of Student Anthropologists. (2021-Present)
-* Member. American Planning Association. Divisions: Economic Development, Food Systems, Small Town and Rural Planning, Transportation, Environment, Natural Resources and Energy (2020-Present)
+### Other Affiliations
 * Member. Delta Alpha Pi Honor Society, Zeta Psi Chapter
 * Summer 2020 Cohort Member & Program Alumnus. University of California Center, Sacramento
