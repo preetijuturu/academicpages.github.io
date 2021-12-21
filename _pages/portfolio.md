@@ -20,7 +20,7 @@ In response to the racially-motivated violence against Asian communities in the 
 race-based violence, and how it should be addressed through transformative justice approaches.
 
 
-## Black Lives Matter Translation Project
+## Black Lives Matter (#BLM) Translation Project
 
 In light of the [2020 George Floyd protests](https://www.nytimes.com/article/george-floyd-protests-timeline.html) and racial tensions throughout the country, many mainstream news outlets began discussing social justice and how to better support the Black community. When engaging with the South Asian community in my hometown, especially non-native English speakers, I noticed a disconnect between South Asians and Black activism. 
 
@@ -33,3 +33,15 @@ The project has resulted in a series of infographics that can be posted via soci
 It is also important to note that certain terms in many languages have negative connotations due to structural racism in linguistic development. The word "black" may have a negative or derogatory connotation even when being used in a neutral or objective context. The selected translations attempt to use words for "black" that do not have negative connotations. However, considering that the issue of word connotation is a socio-linguistic phenomenon, it is challenging and almost impossible to find translations for the word "black" that has a neutral or positive connotation. 
 
 This project is ongoing, and individuals interested in contributing more translations can contact me via [email](mailto:pjutu001@ucr.edu) with a translation of Black Lives Matter. I also invite individuals to send updated or alternative translations for current translations that may be more colloquial or easily understood. 
+
+## Riverside Farmer's Market Food Recovery Program
+As the Associated Students of the University of California, Riverside (ASUCR) President Pro Tempore and School of Public Policy Senator in 2019, I worked on initiatives related to food security and food systems, with the goal to benefit students and their access to nutritional food. 
+
+In collaboration with the UC Riverside California Public Interest Research Group (CALPIRG) Zero Hunger Campaign Director, Kate Castillo, we developed the Farmer's Market Food Recovery Program. Establishing a relationship with the Riverside Farmers Markets Director, Oscar De Leon, we were able to to collect and donate leftover and excess produce to UCR's food pantry, the R'Pantry. Our project was featured in the UC Riverside [Highlander Newspaper](https://www.highlandernews.org/36834/student-leaders-collaborate-with-riverside-farmers-market-to-donate-fresh-produce-to-the-rpantry/) and on KUCR 88.3 FM. Unfortunately, due to COVID-19 shutdowns and logistical issues, the project is on pause until further notice. 
+
+## Journalism for Social Change
+
+During my first two years of undergrad, I was heavily involved in researching and writing articles for the UCR Highlander Newspaper, UC Riverside's only student run, independent newspaper. Previously written articles can be viewed [here](https://www.highlandernews.org/author/preetijuturu/) and [here](https://www.highlandernews.org/author/preeti-juturu/). 
+
+Notably, my series on the [Cost of Living Adjustment (COLA) strikes](https://www.highlandernews.org/37781/ucr-students-rally-in-support-of-uc-santa-cruz-cost-of-living-adjustment-strikes/) recieved notable attention, and was assigned as required reading in a lower-divison labor studies course. 
+
