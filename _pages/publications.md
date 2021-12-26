@@ -13,6 +13,8 @@ author_profile: true
 ### Professional Reports, Media & Other Writing 
 Cheney, Ann, Juliet McMullin, Evelyn Vásquez, Michelle Burroughs, Gabriela Ortiz, Ashley Moran, Salil Trehan, Jenna LeComte-Hinely, Shaleta Smith, Regina Patton Stell, Maria Pozar, Sherri Salgado, **Preeti Juturu**, Cristina Gonzalez and David Lo. (2021), [The STOP COVID-19 CA Project: Factors Shaping COVID-19 Testing and Vaccination in Vulnerable Communities in Inland Southern California, 2021 Qualitative Report.](https://drive.google.com/file/d/17ndaai0T4XZ-0PpOOKpINMMbivc7yY9a/view) Center for Health Disparities Research. University of California Riverside.
 
+Cheney, Ann, Juliet McMullin, Evelyn Vásquez, Michelle Burroughs, Gabriela Ortiz, Ashley Moran, Salil Trehan, Jenna LeComte-Hinely, Shaleta Smith, Regina Patton Stell, Maria Pozar, Sherri Salgado, Preeti Juturu, Cristina Gonzalez. [Californians Speak: Achieving Equity in COVID-19 Vaccination.](https://drive.google.com/file/d/17NM1ymlN0CePXo4RMEMSQJvZ-SzfJKno/view) Prepared by Working Group of STOP COVID-19 California Community Alliance, Funded by National Institute for Health of Heart Lung and Blood Grant Number 21-312-0217571-66106L.
+
 Rey, Sergio J., Elijah Knaap, **Preeti Juturu** and Jenny Chen. (2021). [2017-2021 Center for Geospatial Sciences Activity Report](https://bit.ly/3g9mX1v). Center for Geospatial Sciences. University of California, Riverside.
 
 Foruzan, Sahar, **Preeti Juturu**, and Isabelle Swanson. (2021). [Exposing the Desert III: Policy and Programs at the Salton Sea](https://storymaps.arcgis.com/stories/618867f8c870414d8cc0962776e73f63). University of California, Riverside Center for Health Disparities Research.
