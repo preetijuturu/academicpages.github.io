@@ -7,6 +7,12 @@ author_profile: true
 
 {% include base_path %}
 
+## Exposing the Desert: Environmental Justice in California's Desert Wetland 
+
+In this multi-part ArcGIS StoryMap series, my colleagues and I at the UC Riverside Center for Health Disparities Research highlight the ecological decline, ongoing research and policy initiatives being done in California's Salton Sea region. 
+
+Located in what is known as the Inland Empire, the Salton Sea and its surrounding area is known to be one of the most ecologically polluted regions in the state of California. Our series, combines community-engaged participatory research (CBPR) and ethnography with GIS, narrative and visual authorship to tell the ongoing story of the region. The full series can be viewed via [https://storymaps.arcgis.com/collections/a3d2769efc624baa9c52781cc3d9e980](https://storymaps.arcgis.com/collections/a3d2769efc624baa9c52781cc3d9e980). 
+
 ## Pretty Much Everything Podcast
 
 The Pretty Much Everything Podcast is a podcast collective dedicated to social change and education. Providing a platform for students, this podcast seeks to increase information accessibility and educate listeners on topics relevant to social justice, science, history and politics. Join your host, Preeti Juturu, as she and her friends and colleagues dive into the things you may not know about, want to know about, or want to get an in-depth understanding of.
