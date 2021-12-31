@@ -11,7 +11,7 @@ author_profile: true
 
 In this multi-part ArcGIS StoryMap series, my colleagues and I at the UC Riverside Center for Health Disparities Research highlight the ecological decline, ongoing research and policy initiatives being done in California's Salton Sea region. 
 
-Located in what is known as the Inland Empire, the Salton Sea and its surrounding area is known to be one of the most ecologically polluted regions in the state of California. Our series, combines community-engaged participatory research (CBPR) and ethnography with GIS, narrative and visual authorship to tell the ongoing story of the region. The full series can be viewed via [https://storymaps.arcgis.com/collections/a3d2769efc624baa9c52781cc3d9e980](https://storymaps.arcgis.com/collections/a3d2769efc624baa9c52781cc3d9e980). 
+Located in the Inland Empire, the Salton Sea and the surrounding area is known to be one of the most ecologically polluted regions in the state. Our series combines community-engaged participatory research (CBPR) and ethnography with GIS, narrative and visual authorship to tell the past, present and future of the Salton Sea. Through this work, we hope to raise awareness around the issues in the area via community-engagement, digital authorship and increasing access to research through novel digital platforms such as ArcGIS Storymaps. The full series can be viewed via [https://storymaps.arcgis.com/collections/a3d2769efc624baa9c52781cc3d9e980](https://storymaps.arcgis.com/collections/a3d2769efc624baa9c52781cc3d9e980). 
 
 ## Pretty Much Everything Podcast
 
