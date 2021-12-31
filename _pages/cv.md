@@ -57,6 +57,7 @@ Co-Investigator, Healthy Disruptions Podcast (Dr. Jennifer Syvertson, PI). Unive
 
 ### Organizational & Professional Affiliations 
 * Member. American Anthropological Association. Sections: Culture and Agriculture, Society for Medical Anthropology, National Association of Student Anthropologists. (2021-Present)
+* Member. American Statistical Association. Orange Country/Long Beach Chapter. (2021-Present)
 * Member. American Planning Association. Divisions: Economic Development, Food Systems, Small Town and Rural Planning, Transportation, Environment, Natural Resources and Energy (2020-Present)
 
 ## Publications
