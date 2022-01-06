@@ -15,7 +15,7 @@ A portion of the masks purchased will also be provided to Inland Empire Indigeno
 
 ## Resource Guides
 
-I've developed some guides with links to UC Riverside and COVID-19 resources. They can be found [here](https://drive.google.com/file/d/1qZJv-O1FbcQnGXErO_h5KlvC2wcg8npN/view?usp=sharing) and [here](https://drive.google.com/file/d/1_EeW9slbpkaMaUfAXpCmuj_IAY59ouwZ/view?usp=sharing)
+I've developed some guides with links to UC Riverside and COVID-19 resources. They can be found [here](https://tinyurl.com/ucr-resource-guide) and [here](https://tinyurl.com/ucr-covid-resources)
 
 ## Supporting Our Work
 
