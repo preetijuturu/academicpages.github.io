@@ -12,6 +12,9 @@ main:
   - title: "Projects"
     url: /projects/
     
+  - title: "COVID Resources"
+    url: /covid-resources/
+    
   - title: "CV"
     url: /cv/
     
