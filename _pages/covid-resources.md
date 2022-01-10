@@ -9,7 +9,7 @@ redirect_from:
 
 ### Project Overview
 
-With the increased threat of the COVID-19 omicron variant and disparities in high quality PPE access, especially among communities in the Riverside/Inland Empire regions, I have established a grassroots initiative to fund, purchase and distribute masks from reliable vendors such as [Project N95](https://projectn95.org/) and [Bona Fide Masks](https://bonafidemasks.com/) to the UC Riverside campus community (students, staff and faculty). Currently, my team and I have been able to collect over $800 in donations in purchase 450+ masks. 
+With the increased threat of the COVID-19 omicron variant and disparities in high quality PPE access, especially among communities in the Riverside/Inland Empire regions, I have established a grassroots initiative to fund, purchase and distribute masks from reliable vendors such as [Project N95](https://projectn95.org/) and [Bona Fide Masks](https://bonafidemasks.com/) to the UC Riverside campus community (students, staff and faculty). Currently, my team and I have been able to collect over $1000 in donations in purchase 500+ masks. 
 
 A portion of the masks purchased will also be provided to Inland Empire Indigenous/Native American community members as part of the UC Riverside NIH CEAL STOP COVID-19 CA Coalition Indigenous/Native American Engagement Team's project efforts (NOTE: the funds used to purchase these masks are separate from the donations). Information on the STOP COVID-19 project can be found on the UCR School of Medicine's Center for Health Disparities Research [website](https://healthdisparities.ucr.edu/stop-covid-19-ca) as well as the Gathering of Good Minds Project [site](https://www.gogm.live/).  
 
