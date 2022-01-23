@@ -63,7 +63,8 @@ Co-Investigator, Healthy Disruptions Podcast (Dr. Jennifer Syvertson, PI). Unive
 ## Publications
 
 ### Peer-Reviewed Publications
-1. **Juturu, Preeti**. (2021). "Assessing emergency healthcare accessibility in the Salton Sea region of Imperial County, California." PLOS ONE. [https://doi.org/10.1371/journal.pone.0253301](https://doi.org/10.1371/journal.pone.0253301)
+1. AuYoung, Mona, Patricia Rodriguez Espinosa, Wei-ting Chen, **Preeti Juturu**, Maria-Elena De Trinidad Young, Alejandra Casillas, Paris Adkins-Jackson, Suellen Hopfer, Ed Kissam, Audrey Kawaiopua Alo, Roberto A. Vargas, Arleen F. Brown & the STOP COVID-19 C. A. Communications Working Group. & the STOP COVID-19 C. A. Communications Working Group. Addressing racial/ethnic inequities in vaccine hesitancy and uptake: lessons learned from the California alliance against COVID-19. J Behav Med (2022). [https://doi.org/10.1007/s10865-022-00284-8](https://doi.org/10.1007/s10865-022-00284-8)
+2. **Juturu, Preeti**. (2021). "Assessing emergency healthcare accessibility in the Salton Sea region of Imperial County, California." PLOS ONE. [https://doi.org/10.1371/journal.pone.0253301](https://doi.org/10.1371/journal.pone.0253301)
 
 ### Professional Reports, Media & Other Writing 
 1. Cheney, Ann, Juliet McMullin, Evelyn Vásquez, Michelle Burroughs, Gabriela Ortiz, Ashley Moran, Salil Trehan, Jenna LeComte-Hinely, Shaleta Smith, Regina Patton Stell, Maria Pozar, Sherri Salgado, **Preeti Juturu**, Cristina Gonzalez and David Lo. (2021), [The STOP COVID-19 CA Project: Factors Shaping COVID-19 Testing and Vaccination in Vulnerable Communities in Inland Southern California, 2021 Qualitative Report.](https://drive.google.com/file/d/17ndaai0T4XZ-0PpOOKpINMMbivc7yY9a/view) Center for Health Disparities Research. University of California Riverside.
@@ -78,9 +79,6 @@ Co-Investigator, Healthy Disruptions Podcast (Dr. Jennifer Syvertson, PI). Unive
 
 6. Foruzan, Sahar, **Preeti Juturu**, and Isabelle Swanson. (2020). [Exposing the Desert II: Environmental Justice in California’s Desert Wetland](https://storymaps.arcgis.com/stories/d93d73ca89a84023aa09d0a38202daaf). University of California, Riverside Center for Health Disparities Research. 
 
-### Accepted Publications
-1. AuYoung, Mona, Patricia Rodriguez Espinosa, Wei-ting Chen, **Preeti Juturu**, Maria-Elena De Trinidad Young, Alejandra Casillas, Paris B Adkins-Jackson, Suellen Hopfer, Ed Kissam, Audrey Kawaiopua Alo, Roberto A Vargas, and Arleen F Brown. (2021). "Addressing racial/ethnic inequities in vaccine hesitancy and uptake: Lessons learned from the California Alliance against COVID-19."  Special Issue on Vaccine Hesitancy and Vaccine Confidence, Journal of Behavioral Medicine. Accepted, subject to minor revisions. 
-
 ### In-Progress Publications
 1. Lo, David, **Preeti Juturu**, and Isabelle Swanson. “Asthma at the Salton Sea: a model of environmental hazard and health disparities.” In-progress.
 
@@ -93,6 +91,8 @@ Co-Investigator, Healthy Disruptions Podcast (Dr. Jennifer Syvertson, PI). Unive
 **Preeti Juturu**. (2020). “Assessing Emergency Healthcare Accessibility in the Salton Sea Region of Imperial County, California”, UCCS Undergraduate Poster Showcase, University of California Center, Sacramento. 
 
 ### Presentations at Professional Meetings (peer-reviewed abstracts)
+
+AuYoung, Mona, Patricia Rodriguez Espinosa, Wei-ting Chen, **Preeti Juturu**, Maria-Elena De Trinidad Young, Alejandra Casillas, Paris Adkins-Jackson, Suellen Hopfer, Ed Kissam, Audrey Kawaiopua Alo, Roberto A. Vargas, Arleen F. Brown (2022, April 20-22). Health equity approach to statewide outreach to under-resourced communities during COVID [Conference presentation abstract]. Translational Science 2022 Conference, Chicago, IL, United States. (Accepted)
 
 Cheney, Ann, Gabriela Ortiz, Regina Patton-Stell, Maria Polar, **Preeti Juturu**, Evelyn Vazquez, and Ashley Moran. (2021). “Addressing health disparities among Black, Latinx, and Native American communities through multidisciplinary and cross-sector collaborations in Riverside, California.” Panel Discussant. 2021 American Anthropological Association Annual Meeting, Baltimore, Maryland.
 
