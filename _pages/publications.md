@@ -8,6 +8,9 @@ author_profile: true
 {% include base_path %}
 
 ### Peer-Reviewed Publications
+
+ AuYoung, Mona, Patricia Rodriguez Espinosa, Wei-ting Chen, **Preeti Juturu**, Maria-Elena De Trinidad Young, Alejandra Casillas, Paris Adkins-Jackson, Suellen Hopfer, Ed Kissam, Audrey Kawaiopua Alo, Roberto A. Vargas, Arleen F. Brown & the STOP COVID-19 C. A. Communications Working Group. & the STOP COVID-19 C. A. Communications Working Group. Addressing racial/ethnic inequities in vaccine hesitancy and uptake: lessons learned from the California alliance against COVID-19. J Behav Med (2022). [https://doi.org/10.1007/s10865-022-00284-8](https://doi.org/10.1007/s10865-022-00284-8)
+
 **Juturu, Preeti**. (2021). "Assessing emergency healthcare accessibility in the Salton Sea region of Imperial County, California." PLOS ONE. [https://doi.org/10.1371/journal.pone.0253301](https://doi.org/10.1371/journal.pone.0253301)
 
 ### Professional Reports, Media & Other Writing 
