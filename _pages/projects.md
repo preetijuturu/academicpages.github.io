@@ -39,33 +39,6 @@ As the Associated Students of the University of California, Riverside (ASUCR) Pr
 
 In collaboration with the UC Riverside California Public Interest Research Group (CALPIRG) Zero Hunger Campaign Director, Kate Castillo, we developed the Farmer's Market Food Recovery Program. Establishing a relationship with the Riverside Farmers Markets Director, Oscar De Leon, we were able to to collect and donate leftover and excess produce to UCR's food pantry, the R'Pantry. Our project was featured in the UC Riverside [Highlander Newspaper](https://www.highlandernews.org/36834/student-leaders-collaborate-with-riverside-farmers-market-to-donate-fresh-produce-to-the-rpantry/) and on KUCR 88.3 FM. Unfortunately, due to COVID-19 shutdowns and logistical issues, the project is on pause until further notice. 
 
-## Freelance Consulting
-I provide consultation services (pro bono, hourly employee and as an independent contractor) to a breadth of initiatives, entities and groups whose work is dedicated to social good and innovation. From non-profits to corporations to educational institutions, my services have aided in furthering my clients' goals. 
-
-Services include:
-- Strategic planning and engagement
-- Digital outreach and brand development 
-- General coaching and advising 
-- Writing and communications 
-- Optimization support
-
-Practice areas:
-- Environmental justice
-- Health equity
-- Science communications
-- Technology development 
-- Social change 
-
-Previous clientele includes:
-- [City of Riverside Mayor's Office](https://www.riversideca.gov/mayor/)
-- [Rare Combinations, LLC](http://rarecombinations.com/)
-- [Python Spatial Analysis Library](https://pysal.org/)
-- [UCR Center for Geospatial Sciences](https://spatial.ucr.edu/)
-- [UCR Center for Health Disparities Research](https://healthdisparities.ucr.edu/)
-- [Associated Students of the University of California, Riverside](https://asucr.ucr.edu/)
-
-Please contact [consulting@preetijuturu.com](mailto:consulting@preetijuturu.com) for more information on services, request for consulting, etc.
-
 ## Journalism, Writing & Community-Engagement
 
 During my first two years of undergrad, I was heavily involved in researching and writing articles for the UCR Highlander Newspaper, UC Riverside's only student run, independent newspaper. Previously written articles can be viewed [here](https://www.highlandernews.org/author/preetijuturu/) and [here](https://www.highlandernews.org/author/preeti-juturu/). Through this work, I was introduced to community-engagement methods and approaches which have aided me greatly in my qualitative and ethnographic endeavours. Moreover, such work allowed me to hone in on my writing skills, training me to write effectively, concisely and objectively. 
