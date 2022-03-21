@@ -19,7 +19,9 @@ redirect_from:
 
 
 ## Research & Teaching Interests 
-Health Disparities; Environmental Justice; Political Geography; Urban/Regional Infrastructure; Community Development; Socioeconomic (In)equity; Quantitative & Qualitative Methods; Community-based Participatory Research (CBPR)
+**Topic Areas**: Health Disparities; Environmental Justice; Social & Spatial Epidemiology; Community Nutrition; Structural Racism; Food Systems; Political Geographies; Gender & Sexuality; Urban/Regional Infrastructure; Socioeconomic and Racial (In)equity; Health Communication; Climate Change; Health Promotion; Public Policy
+
+**Methods**: Quantitative Methods; Qualitative Methods; Community-Based Participatory Research (CBPR); Spatial Data Science; Ethnography
 
 ## Employment & Appointments
 
@@ -48,6 +50,7 @@ Health Disparities; Environmental Justice; Political Geography; Urban/Regional I
 ## Professional Activity 
 
 ### Honors & Awards
+* 2022 Chancellor’s Award for Excellence in Undergraduate Research and Creative Achievement. University of California, Riverside
 * 2021 Health Equity Scholar, California Initiative for Health Equity and Action (Cal-IHEA). University of California, Berkeley
 * 2021 Plenary Speaker, Harvard College National Collegiate Research Conference. Harvard University
 * 2020 Award Recipient, University of California Center, Sacramento Governance Fellow Award. University of California, Davis
@@ -78,11 +81,6 @@ Co-Investigator, Healthy Disruptions Podcast (Dr. Jennifer Syvertson, PI). Unive
 5. **Juturu, Preeti**. (2021). [Health Equity Scholar Reflection on the ITUP 2021 Conference](https://healthequity.berkeley.edu/preeti-juturu). California Initiative for Health Equity & Action. University of California, Berkeley. 
 
 6. Foruzan, Sahar, **Preeti Juturu**, and Isabelle Swanson. (2020). [Exposing the Desert II: Environmental Justice in California’s Desert Wetland](https://storymaps.arcgis.com/stories/d93d73ca89a84023aa09d0a38202daaf). University of California, Riverside Center for Health Disparities Research. 
-
-### In-Progress Publications
-1. Lo, David, **Preeti Juturu**, and Isabelle Swanson. “Asthma at the Salton Sea: a model of environmental hazard and health disparities.” In-progress.
-
-2. Foruzan, Sahar, **Preeti Juturu**, and Isabelle Swanson. “Air quality and environmental health in the Salton Sea region of California: a scoping review.” In-progress.
 
 ## Conference & Symposium Presentations  
 
