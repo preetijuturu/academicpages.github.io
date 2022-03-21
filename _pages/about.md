@@ -8,9 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a fourth-year Public Policy (B.A) and Economics (B.A) student at the University of California, Riverside (UCR) pursuing concentrations in Health/Population Policy and Urban/Environmental Policy. Hailing from a small, unincorporated and planned town experiencing rapid development in the San Joaquin Valley, my lived experiences and observations have fostered my commitment to equity and social justice. 
+I am a fourth-year Public Policy (B.A) and Economics (B.A) student at the University of California, Riverside (UCR) pursuing concentrations in Health/Population Policy and Urban/Environmental Policy. In Fall of 2022, I will be an M.S. student atthe UCLA Fielding School of Public Health's Department of Community Health Sciences.
 
-My career aspirations branch out into research and academia. I am interested in work that is interdisciplinary in nature, focusing on health disparities, environmental (in)justice, nutrition/food security, transmissible diseases, and equitable community infrastructure. Specifically, I hope to conduct mixed methods research and study these broad topics through a holistic lens, assessing how socio-cultural and geo-political barriers influence community conditions, health outcomes and/or access to resources. 
+Hailing from a small, unincorporated and planned town experiencing rapid development in the San Joaquin Valley, my lived experiences and observations have fostered my commitment to equity and social justice. 
+
+My career aspirations branch out into research and academia. I am interested in work that is interdisciplinary in nature, focusing on health disparities, environmental (in)justice, nutrition/food security, spatial epidemiology, and equitable community infrastructure. Specifically, I hope to conduct mixed methods research and study these broad topics through a holistic lens, assessing how socio-cultural and geo-political barriers influence community conditions, health outcomes and/or access to resources. 
 
 Currently I am affiliated with the [UCR Center for Geospatial Sciences](https://spatial.ucr.edu/) and the [UCR Center for Health Disparities Research](https://healthdisparities.ucr.edu/), where I contribute to ongoing projects ranging from harm reduction spatial modelling to healthy equity amidst the COVID-19 pandemic. 
 
