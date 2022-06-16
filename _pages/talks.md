@@ -14,6 +14,8 @@ Juturu, Preeti. (2020). “Assessing Emergency Healthcare Accessibility in the S
 
 ### Presentations at Professional Meetings (peer-reviewed abstracts)
 
+Juturu, Preeti, Sahar Foruzan, and Isabelle Swanson. (2022). “Environmental (In)Justice and Health: Understanding the Political Geographies of Slow Violence.” UC Global Health Day, University of California, Santa Cruz.
+
 Cheney, Ann, Juliet McMullin, Evelyn Vásquez, Michelle Burroughs, Gabriela Ortiz, Ashley Moran, Salil Trehan, Jenna LeComte-Hinely, Shaleta Smith, Regina Patton Stell, Maria Pozar, Sherri Salgado, Preeti Juturu, Cristina Gonzalez, and David Lo. (2021). “The STOP COVID-19 CA Project: Factors Shaping COVID-19 Testing and Vaccination in Vulnerable Communities in Inland Southern California, 2021 Qualitative Report.” Center for Health Disparities Research. University of California Riverside.
 
 Juturu, Preeti. (2021). “Assessing Emergency Healthcare Accessibility in the Salton Sea Region of Imperial County, California”, Los Angeles Geospatial Summit, University of Southern California. 
