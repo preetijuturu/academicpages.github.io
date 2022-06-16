@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a fourth-year Public Policy (B.A) and Economics (B.A) student at the University of California, Riverside (UCR) pursuing concentrations in Health/Population Policy and Urban/Environmental Policy. In Fall of 2022, I will be an M.S. student atthe UCLA Fielding School of Public Health's Department of Community Health Sciences.
+I am an incoming M.S. student at the UCLA Fielding School of Public Health's Department of Community Health Sciences, recently graduated with a dual-B.A. in Public Policy and Economics from the University of California, Riverside (UCR).
 
-Hailing from a small, unincorporated and planned town experiencing rapid development in the San Joaquin Valley, my lived experiences and observations have fostered my commitment to equity and social justice. 
+Hailing from a small, unincorporated and planned town experiencing rapid development in the San Joaquin Valley, my lived experiences and observations have fostered my commitment to equity and social justice. Moreover, my residence in the Inland Empire over the past 4 years has further solidified this passion and commitment. 
 
 My career aspirations branch out into research and academia. I am interested in work that is interdisciplinary in nature, focusing on health disparities, environmental (in)justice, nutrition/food security, spatial epidemiology, and equitable community infrastructure. Specifically, I hope to conduct mixed methods research and study these broad topics through a holistic lens, assessing how socio-cultural and geo-political barriers influence community conditions, health outcomes and/or access to resources. 
 
