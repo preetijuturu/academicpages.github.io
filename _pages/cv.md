@@ -11,6 +11,9 @@ redirect_from:
 
 ## Education 
 
+### Graduate Education
+**M.S.** Community Health Sciences; UCLA Fielding School of Public Health (Incoming, Fall 2022)
+
 ### Undergraduate Education
 **B.A.**  Public Policy & Economics; University of California, Riverside (2018 - 2022)
 * Concentrations in Urban/Environmental Policy, Health/Population Policy
@@ -19,7 +22,7 @@ redirect_from:
 
 
 ## Research & Teaching Interests 
-**Topic Areas**: Health Disparities; Environmental Justice; Social & Spatial Epidemiology; Community Nutrition; Structural Racism; Food Systems; Political Geographies; Gender & Sexuality; Urban/Regional Infrastructure; Socioeconomic and Racial (In)equity; Health Communication; Climate Change; Health Promotion; Public Policy
+**Topic Areas**: Health Disparities; Environmental Justice; Social & Spatial Epidemiology; Health Promotion; Structural Racism; Food Systems; Disability/Access Studies; Political Geographies; Gender & Sexuality; Urban/Regional Infrastructure; Socioeconomic and Racial (In)equity; Climate Change; Public Policy
 
 **Methods**: Quantitative Methods; Qualitative Methods; Community-Based Participatory Research (CBPR); Spatial Data Science; Ethnography
 
@@ -51,14 +54,18 @@ redirect_from:
 
 ### Honors & Awards
 * 2022 Chancellor’s Award for Excellence in Undergraduate Research and Creative Achievement. University of California, Riverside
+* 2022 Bob Stockton Fund in Environmental Policy Scholarship Recipient. School of Public Policy. University of California, Riverside.
 * 2021 Health Equity Scholar, California Initiative for Health Equity and Action (Cal-IHEA). University of California, Berkeley
 * 2021 Plenary Speaker, Harvard College National Collegiate Research Conference. Harvard University
 * 2020 Award Recipient, University of California Center, Sacramento Governance Fellow Award. University of California, Davis
 
 ### Grants & Research Awards
+Co-Investigator, STOP COVID-19 CA Follow-Up Survey for Inland Empire Indigenous/Native American Populations. University of California, Riverside School of Medicine. 
+
 Co-Investigator, Healthy Disruptions Podcast (Dr. Jennifer Syvertson, PI). University of California Humanities Research Institute (UCHRI), 2021-22 UCHRI Podcast Support Grant. Amount of $5,000. Grant from July 1, 2021 - December 31, 2022.
 
 ### Organizational & Professional Affiliations 
+* Member. American Public Health Association.  Sections: Environment, Food and Nutrition, Community Health Planning & Policy Development. (2022-Present)
 * Member. American Anthropological Association. Sections: Culture and Agriculture, Society for Medical Anthropology, National Association of Student Anthropologists. (2021-Present)
 * Member. American Statistical Association. Orange Country/Long Beach Chapter. (2021-Present)
 * Member. American Planning Association. Divisions: Economic Development, Food Systems, Small Town and Rural Planning, Transportation, Environment, Natural Resources and Energy (2020-Present)
@@ -89,6 +96,7 @@ Co-Investigator, Healthy Disruptions Podcast (Dr. Jennifer Syvertson, PI). Unive
 **Preeti Juturu**. (2020). “Assessing Emergency Healthcare Accessibility in the Salton Sea Region of Imperial County, California”, UCCS Undergraduate Poster Showcase, University of California Center, Sacramento. 
 
 ### Presentations at Professional Meetings (peer-reviewed abstracts)
+**Juturu, Preeti**, Sahar Foruzan, and Isabelle Swanson. (2022). “Environmental (In)Justice and Health: Understanding the Political Geographies of Slow Violence.” UC Global Health Day, University of California, Santa Cruz. 
 
 AuYoung, Mona, Patricia Rodriguez Espinosa, Wei-ting Chen, **Preeti Juturu**, Maria-Elena De Trinidad Young, Alejandra Casillas, Paris Adkins-Jackson, Suellen Hopfer, Ed Kissam, Audrey Kawaiopua Alo, Roberto A. Vargas, Arleen F. Brown (2022, April 20-22). Health equity approach to statewide outreach to under-resourced communities during COVID [Conference presentation abstract]. Translational Science 2022 Conference, Chicago, IL, United States. (Accepted)
 
@@ -109,7 +117,7 @@ Foruzan, Sahar, **Preeti Juturu**, and Isabelle Swanson. (2021). “Story Maps: 
 ## Service & Other
 
 ### Institutional Service
-* Editorial Board Member, University of California, Riverside Undergraduate Student Research Journal (2021-Present)
+* Editorial Board Member, University of California, Riverside Undergraduate Student Research Journal (2021-2022)
 * Member. University of California, Riverside Academic Senate Committee on Diversity, Equity and Inclusion (2020-2021)
 * President Pro Tempore. Associated Students of the University of California, Riverside (2019-2020)
 * School of Public Policy Senator. Associated Students of the University of California, Riverside (2019-2020)
