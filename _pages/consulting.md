@@ -27,6 +27,7 @@ Practice areas:
 
 Previous clientele includes:
 - [City of Riverside Mayor's Office](https://www.riversideca.gov/mayor/)
+- [Inland Empire Harm Reduction](https://www.ieharmreduction.org/)
 - [Rare Combinations, LLC](http://rarecombinations.com/)
 - [Python Spatial Analysis Library](https://pysal.org/)
 - Researchers, research centers and graduate students affiliated with the [University of California, Riverside](ucr.edu)
