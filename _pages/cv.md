@@ -22,7 +22,7 @@ redirect_from:
 
 
 ## Research & Teaching Interests 
-**Topic Areas**: Health Disparities; Environmental Justice; Social & Spatial Epidemiology; Health Promotion; Structural Racism; Food Systems; Disability/Access Studies; Political Geographies; Gender & Sexuality; Urban/Regional Infrastructure; Socioeconomic and Racial (In)equity; Climate Change; Public Policy
+**Topic Areas**: Health Disparities; Environmental Justice; Social & Spatial Epidemiology; Health Promotion; Structural Racism; Food Systems; Disability/Access Studies; Political Geographies; Gender & Sexuality; Urban/Regional Infrastructure; Socioeconomic and Racial/Ethnic (In)equity; Climate Change; Public Policy
 
 **Methods**: Quantitative Methods; Qualitative Methods; Community-Based Participatory Research (CBPR); Spatial Data Science; Ethnography
 
@@ -34,17 +34,19 @@ redirect_from:
 
 ### Research 
 
+* **Graduate Student Researcher, Summer 2022**
+  * UCLA Center for Health Policy Research (CHPR). Summer GSR (Step III) from August to September 
 * **Project Manager & Researcher**
-  * National Institutes of Health (NIH) Community Engagement Alliance (CEAL) STOP COVID-19 CA Project. Indigenous/Native American Engagement Team. University of California, Riverside School of Medicine (2021-Present)
+  * National Institutes of Health (NIH) Community Engagement Alliance (CEAL) STOP COVID-19 CA Project. Indigenous/Native American Engagement Team. University of California, Riverside School of Medicine (2021-2022)
 * **Researcher**
-  * UCR Center for Geospatial Sciences (CGS). University of California, Riverside (2020-Present)
+  * UCR Center for Geospatial Sciences (CGS). University of California, Riverside (2020-2022)
 * **Research Assistant**
-  * UCR Center for Health Disparities Research (HDR@UCR). University of California, Riverside (2020-Present)
+  * UCR Center for Health Disparities Research (HDR@UCR). University of California, Riverside (2020-2022)
 * **Researcher**
   * University of California Center, Sacramento. University of California, Davis (2020)
 
 ### Government/Non-Profit Work
-
+* Project Coordinator, Inland Empire Harm Reduction (2022-Present)
 * GIS Consultant, Independant/Self-employed. California (2021-Present)
 * Legislative Intern, Health Access California. Sacramento, California (2020)
 * Public Works Intern, Department of Public Works. Mountain House Community Services District, San Joaquin County (2019)
@@ -60,8 +62,6 @@ redirect_from:
 * 2020 Award Recipient, University of California Center, Sacramento Governance Fellow Award. University of California, Davis
 
 ### Grants & Research Awards
-Co-Investigator, STOP COVID-19 CA Follow-Up Survey for Inland Empire Indigenous/Native American Populations. University of California, Riverside School of Medicine. 
-
 Co-Investigator, Healthy Disruptions Podcast (Dr. Jennifer Syvertson, PI). University of California Humanities Research Institute (UCHRI), 2021-22 UCHRI Podcast Support Grant. Amount of $5,000. Grant from July 1, 2021 - December 31, 2022.
 
 ### Organizational & Professional Affiliations 
@@ -124,5 +124,5 @@ Foruzan, Sahar, **Preeti Juturu**, and Isabelle Swanson. (2021). “Story Maps: 
 * Committee Member. UC Riverside Counts, Census Counts Committee (2019-2020)
 
 ### Other Affiliations
-* Member. Delta Alpha Pi Honor Society, Zeta Psi Chapter
+* Member. Delta Alpha Pi Disability Honor Society, Zeta Psi Chapter
 * Summer 2020 Cohort Member & Program Alumnus. University of California Center, Sacramento
