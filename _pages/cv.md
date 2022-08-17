@@ -46,8 +46,9 @@ redirect_from:
   * University of California Center, Sacramento. University of California, Davis (2020)
 
 ### Government/Non-Profit Work
-* Project Coordinator, Inland Empire Harm Reduction (2022-Present)
+* Data & Evaluation Analyst, Inland Empire Harm Reduction. Riverside, California (2022-Present)
 * GIS Consultant, Independant/Self-employed. California (2021-Present)
+* Strategic Planning, Evaluation & Organizational Consultant, Independant/Self-employed. California. (2021-Present)
 * Legislative Intern, Health Access California. Sacramento, California (2020)
 * Public Works Intern, Department of Public Works. Mountain House Community Services District, San Joaquin County (2019)
 
@@ -114,15 +115,19 @@ Foruzan, Sahar, **Preeti Juturu**, and Isabelle Swanson. (2021). “Story Maps: 
 
 “Measuring Spatial Accessibility, the PySAL Spatial Access Package and Using Access in Policy Analysis”, Presenter. (2020). UCR Center for Geospatial Sciences. University of California, Riverside. 
 
-## Service & Other
-
-### Institutional Service
+## Institutional Service
 * Editorial Board Member, University of California, Riverside Undergraduate Student Research Journal (2021-2022)
 * Member. University of California, Riverside Academic Senate Committee on Diversity, Equity and Inclusion (2020-2021)
 * President Pro Tempore. Associated Students of the University of California, Riverside (2019-2020)
 * School of Public Policy Senator. Associated Students of the University of California, Riverside (2019-2020)
 * Committee Member. UC Riverside Counts, Census Counts Committee (2019-2020)
 
-### Other Affiliations
+## Community Service
+* General Volunteer, Los Angeles Community Fridges (2022-Present)
+* General Volunteer, Associated Students of the University of California, Riverside (2018-2022)
+* Contributing Writer & Content Producer, UCR Highlander Newspaper (2018-2020)
+* Food Stocking Volunteer, UC Riverside Food Pantry (2018-2020)
+
+## Other Affiliations
 * Member. Delta Alpha Pi Disability Honor Society, Zeta Psi Chapter
 * Summer 2020 Cohort Member & Program Alumnus. University of California Center, Sacramento
