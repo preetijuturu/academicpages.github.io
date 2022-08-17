@@ -29,11 +29,9 @@ redirect_from:
 ## Employment & Appointments
 
 ### Teaching 
-
 * Course Grader, School of Public Policy. *PBPL002: Politics & Public Policy,* taught by Professor Steven G. Brint; Winter 2021. University of California, Riverside 
 
 ### Research 
-
 * **Graduate Student Researcher, Summer 2022**
   * UCLA Center for Health Policy Research (CHPR). Summer GSR (Step III) from August to September 
 * **Project Manager & Researcher**
@@ -93,7 +91,6 @@ Co-Investigator, Healthy Disruptions Podcast (Dr. Jennifer Syvertson, PI). Unive
 ## Conference & Symposium Presentations  
 
 ### Invited Presentations
-
 **Preeti Juturu**. (2020). “Assessing Emergency Healthcare Accessibility in the Salton Sea Region of Imperial County, California”, UCCS Undergraduate Poster Showcase, University of California Center, Sacramento. 
 
 ### Presentations at Professional Meetings (peer-reviewed abstracts)
@@ -124,6 +121,9 @@ Foruzan, Sahar, **Preeti Juturu**, and Isabelle Swanson. (2021). “Story Maps: 
 
 ## Community Service
 * General Volunteer, Los Angeles Community Fridges (2022-Present)
+* Founder, UCR KN95 Mask Mutual Fund & COVID-19 Safety Initiative (2022-2022)
+* Volunteer Photographer, Freelance (2018-Present)
+* Volunteer Graphic Designer, Freelance (2015-Present)
 * General Volunteer, Associated Students of the University of California, Riverside (2018-2022)
 * Contributing Writer & Content Producer, UCR Highlander Newspaper (2018-2020)
 * Food Stocking Volunteer, UC Riverside Food Pantry (2018-2020)
