@@ -39,4 +39,4 @@ Previous clientele includes:
   - [UCR Center for Geospatial Sciences](https://spatial.ucr.edu/)
 - [Associated Students of the University of California, Riverside](https://asucr.ucr.edu/)
 
-Please contact [consulting@preetijuturu.com](mailto:consulting@preetijuturu.com) for more information on services, request for consulting, etc.
+Please contact [pjuturu@ucla.edu](mailto:pjuturu@ucla.edu) for more information on services, request for consulting, etc.
