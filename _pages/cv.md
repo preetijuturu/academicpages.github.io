@@ -12,7 +12,7 @@ redirect_from:
 ## Education 
 
 ### Graduate Education
-**M.S.** Community Health Sciences; UCLA Fielding School of Public Health (Incoming, Fall 2022)
+**M.S.** Community Health Sciences; UCLA Fielding School of Public Health (2022-Present)
 
 ### Undergraduate Education
 **B.A.**  Public Policy & Economics; University of California, Riverside (2018 - 2022)
@@ -29,10 +29,12 @@ redirect_from:
 ## Employment & Appointments
 
 ### Teaching 
-* Course Grader, School of Public Policy. *PBPL002: Politics & Public Policy,* taught by Professor Steven G. Brint; Winter 2021. University of California, Riverside 
+* Graduate Teaching Assistant (TA), University of California, Los Angeles Undergraduate Education Initiatives. *DIS STD 101W: Perspectives on Disability Studies,* taught by Professor Caitlyn J. Solone; Fall 2022 & Winter 2023. 
+* Course Grader, University of California, Riverside School of Public Policy. *PBPL002: Politics & Public Policy,* taught by Professor Steven G. Brint; Winter 2021. 
 
 ### Research 
-* **Graduate Student Researcher, Summer 2022**
+* **Graduate Research Assistant**                                                                                                                 * UCLA Resnick Center for Food Law and Policy. (2022-Present) 
+* **Graduate Student Researcher (GSR), Summer 2022**
   * UCLA Center for Health Policy Research (CHPR). Summer GSR (Step III) from August to September 
 * **Project Manager & Researcher**
   * National Institutes of Health (NIH) Community Engagement Alliance (CEAL) STOP COVID-19 CA Project. Indigenous/Native American Engagement Team. University of California, Riverside School of Medicine (2021-2022)
@@ -50,8 +52,15 @@ redirect_from:
 * Legislative Intern, Health Access California. Sacramento, California (2020)
 * Public Works Intern, Department of Public Works. Mountain House Community Services District, San Joaquin County (2019)
 
+### Service and Volunteering
+* Public Health Volunteer, University of California, Los Angeles Mobile Clinic Project (MCP) (2022-Present)
 
 ## Professional Activity 
+
+### Grants & Research Awards
+Primary Investigator, Exploring and Assessing the Validity of Food Security Measures Among Asian-American Pacific Islanders (AAPI) and Native Hawaiians (NH) in O’ahu. University of California Global Health Institute (UCGHI) Master's Student Stipend (MASS) Inaugural Recipient. Amount of $5,000, from 2/1/23 - 12/31/23.
+
+Co-Investigator, Healthy Disruptions Podcast (Dr. Jennifer Syvertson, PI). University of California Humanities Research Institute (UCHRI), 2021-22 UCHRI Podcast Support Grant. Amount of $5,000. Grant from July 1, 2021 - December 31, 2022.
 
 ### Honors & Awards
 * 2022 Chancellor’s Award for Excellence in Undergraduate Research and Creative Achievement. University of California, Riverside
@@ -59,9 +68,6 @@ redirect_from:
 * 2021 Health Equity Scholar, California Initiative for Health Equity and Action (Cal-IHEA). University of California, Berkeley
 * 2021 Plenary Speaker, Harvard College National Collegiate Research Conference. Harvard University
 * 2020 Award Recipient, University of California Center, Sacramento Governance Fellow Award. University of California, Davis
-
-### Grants & Research Awards
-Co-Investigator, Healthy Disruptions Podcast (Dr. Jennifer Syvertson, PI). University of California Humanities Research Institute (UCHRI), 2021-22 UCHRI Podcast Support Grant. Amount of $5,000. Grant from July 1, 2021 - December 31, 2022.
 
 ### Organizational & Professional Affiliations 
 * Member. American Public Health Association.  Sections: Environment, Food and Nutrition, Community Health Planning & Policy Development. (2022-Present)
@@ -72,21 +78,33 @@ Co-Investigator, Healthy Disruptions Podcast (Dr. Jennifer Syvertson, PI). Unive
 ## Publications
 
 ### Peer-Reviewed Publications
-1. AuYoung, Mona, Patricia Rodriguez Espinosa, Wei-ting Chen, **Preeti Juturu**, Maria-Elena De Trinidad Young, Alejandra Casillas, Paris Adkins-Jackson, Suellen Hopfer, Ed Kissam, Audrey Kawaiopua Alo, Roberto A. Vargas, Arleen F. Brown & the STOP COVID-19 CA Communications Working Group. (2022). "Addressing racial/ethnic inequities in vaccine hesitancy and uptake: lessons learned from the California alliance against COVID-19." Journal of Behavioral Medicine. [https://doi.org/10.1007/s10865-022-00284-8](https://doi.org/10.1007/s10865-022-00284-8)
-2. **Juturu, Preeti**. (2021). "Assessing emergency healthcare accessibility in the Salton Sea region of Imperial County, California." PLOS ONE. [https://doi.org/10.1371/journal.pone.0253301](https://doi.org/10.1371/journal.pone.0253301)
+1. **Juturu, Preeti**. (2021). “Assessing emergency healthcare accessibility in the Salton Sea region of Imperial County, 
+California.” PLOS ONE. 
+
+2. AuYoung, Mona, Patricia Rodriguez Espinosa, Wei-ting Chen, **Preeti Juturu**, Maria-Elena De Trinidad Young, 
+Alejandra Casillas, Paris B Adkins-Jackson, Suellen Hopfer, Ed Kissam, Audrey Kawaiopua Alo, Roberto A Vargas, and Arleen F Brown. (2022). “Addressing racial/ethnic inequities in vaccine hesitancy and uptake: Lessons learned from the California Alliance against COVID-19.” Special Issue on Vaccine Hesitancy and Vaccine Confidence, Journal of Behavioral Medicine. 
+
+3. AuYoung, Mona, Patricia Rodriguez Espinosa, Wei-ting Chen, **Preeti Juturu**, Maria-Elena De Trinidad Young, 
+Alejandra Casillas, Paris B Adkins-Jackson, Suellen Hopfer, Ed Kissam, Audrey Kawaiopua Alo, Roberto A Vargas, and Arleen F Brown. (2022). “146 Health equity approach to statewide outreach to under-resourced communities during COVID.” Journal of Clinical and Translational Science.
+
+4. AuYoung, Mona, Patricia Rodriguez Espinosa, Wei-ting Chen, **Preeti Juturu**, Maria-Elena De Trinidad Young, 
+Alejandra Casillas, Paris B Adkins-Jackson, Suellen Hopfer, Ed Kissam, Audrey Kawaiopua Alo, Roberto A Vargas, and Arleen F Brown. (2022). “Building and Supporting A Statewide Coalition Across Sites and Disciplines for Emergency Public Health Response.” Annals of Behavioral Medicine (Vol. 56, No. SUPP 1, pp. S242-S242).
+
+5. Vázquez, Evelyn, **Preeti Juturu**, Michelle Burroughs, Juliet McMullin, Ann M. Cheney. (2022). "Continuum of 
+Trauma: Fear and Mistrust of Institutions in Communities of Color During the COVID-19 Pandemic." Culture, Medicine, and Psychiatry. (Submitted, Under Review)
 
 ### Professional Reports, Media & Other Writing 
-1. Cheney, Ann, Juliet McMullin, Evelyn Vásquez, Michelle Burroughs, Gabriela Ortiz, Ashley Moran, Salil Trehan, Jenna LeComte-Hinely, Shaleta Smith, Regina Patton Stell, Maria Pozar, Sherri Salgado, **Preeti Juturu**, Cristina Gonzalez and David Lo. (2021). [The STOP COVID-19 CA Project: Factors Shaping COVID-19 Testing and Vaccination in Vulnerable Communities in Inland Southern California, 2021 Qualitative Report.](https://drive.google.com/file/d/17ndaai0T4XZ-0PpOOKpINMMbivc7yY9a/view) Center for Health Disparities Research. University of California Riverside.
+Cheney, Ann, Juliet McMullin, Evelyn Vásquez, Michelle Burroughs, Gabriela Ortiz, Ashley Moran, Salil Trehan, Jenna LeComte-Hinely, Shaleta Smith, Regina Patton Stell, Maria Pozar, Sherri Salgado, **Preeti Juturu**, Cristina Gonzalez and David Lo. (2021). [The STOP COVID-19 CA Project: Factors Shaping COVID-19 Testing and Vaccination in Vulnerable Communities in Inland Southern California, 2021 Qualitative Report.](https://drive.google.com/file/d/17ndaai0T4XZ-0PpOOKpINMMbivc7yY9a/view) Center for Health Disparities Research. University of California Riverside.
 
-2. Cheney, Ann, Juliet McMullin, Evelyn Vásquez, Michelle Burroughs, Gabriela Ortiz, Ashley Moran, Salil Trehan, Jenna LeComte-Hinely, Shaleta Smith, Regina Patton Stell, Maria Pozar, Sherri Salgado, Preeti Juturu, Cristina Gonzalez. [Californians Speak: Achieving Equity in COVID-19 Vaccination.](https://drive.google.com/file/d/17NM1ymlN0CePXo4RMEMSQJvZ-SzfJKno/view) Prepared by Working Group of STOP COVID-19 California Community Alliance, Funded by National Institute for Health of Heart Lung and Blood Grant Number 21-312-0217571-66106L.
+Cheney, Ann, Juliet McMullin, Evelyn Vásquez, Michelle Burroughs, Gabriela Ortiz, Ashley Moran, Salil Trehan, Jenna LeComte-Hinely, Shaleta Smith, Regina Patton Stell, Maria Pozar, Sherri Salgado, Preeti Juturu, Cristina Gonzalez. [Californians Speak: Achieving Equity in COVID-19 Vaccination.](https://drive.google.com/file/d/17NM1ymlN0CePXo4RMEMSQJvZ-SzfJKno/view) Prepared by Working Group of STOP COVID-19 California Community Alliance, Funded by National Institute for Health of Heart Lung and Blood Grant Number 21-312-0217571-66106L.
 
-3. Rey, Sergio J., Elijah Knaap, **Preeti Juturu** and Jenny Chen. (2021). [2017-2021 Center for Geospatial Sciences Activity Report](https://bit.ly/3g9mX1v). Center for Geospatial Sciences. University of California, Riverside.
+Rey, Sergio J., Elijah Knaap, **Preeti Juturu** and Jenny Chen. (2021). [2017-2021 Center for Geospatial Sciences Activity Report](https://bit.ly/3g9mX1v). Center for Geospatial Sciences. University of California, Riverside.
 
-4. Foruzan, Sahar, **Preeti Juturu**, and Isabelle Swanson. (2021). [Exposing the Desert III: Policy and Programs at the Salton Sea](https://storymaps.arcgis.com/stories/618867f8c870414d8cc0962776e73f63). University of California, Riverside Center for Health Disparities Research.
+Foruzan, Sahar, **Preeti Juturu**, and Isabelle Swanson. (2021). [Exposing the Desert III: Policy and Programs at the Salton Sea](https://storymaps.arcgis.com/stories/618867f8c870414d8cc0962776e73f63). University of California, Riverside Center for Health Disparities Research.
 
-5. **Juturu, Preeti**. (2021). [Health Equity Scholar Reflection on the ITUP 2021 Conference](https://healthequity.berkeley.edu/preeti-juturu). California Initiative for Health Equity & Action. University of California, Berkeley. 
+**Juturu, Preeti**. (2021). [Health Equity Scholar Reflection on the ITUP 2021 Conference](https://healthequity.berkeley.edu/preeti-juturu). California Initiative for Health Equity & Action. University of California, Berkeley. 
 
-6. Foruzan, Sahar, **Preeti Juturu**, and Isabelle Swanson. (2020). [Exposing the Desert II: Environmental Justice in California’s Desert Wetland](https://storymaps.arcgis.com/stories/d93d73ca89a84023aa09d0a38202daaf). University of California, Riverside Center for Health Disparities Research. 
+Foruzan, Sahar, **Preeti Juturu**, and Isabelle Swanson. (2020). [Exposing the Desert II: Environmental Justice in California’s Desert Wetland](https://storymaps.arcgis.com/stories/d93d73ca89a84023aa09d0a38202daaf). University of California, Riverside Center for Health Disparities Research. 
 
 ## Conference & Symposium Presentations  
 
