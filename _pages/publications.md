@@ -7,11 +7,22 @@ author_profile: true
 
 {% include base_path %}
 
+
 ### Peer-Reviewed Publications
+1. **Juturu, Preeti**. (2021). “Assessing emergency healthcare accessibility in the Salton Sea region of Imperial County, 
+California.” PLOS ONE. 
 
-AuYoung, Mona, Patricia Rodriguez Espinosa, Wei-ting Chen, **Preeti Juturu**, Maria-Elena De Trinidad Young, Alejandra Casillas, Paris Adkins-Jackson, Suellen Hopfer, Ed Kissam, Audrey Kawaiopua Alo, Roberto A. Vargas, Arleen F. Brown & the STOP COVID-19 CA Communications Working Group. (2022). "Addressing racial/ethnic inequities in vaccine hesitancy and uptake: lessons learned from the California alliance against COVID-19." Journal of Behavioral Medicine. [https://doi.org/10.1007/s10865-022-00284-8](https://doi.org/10.1007/s10865-022-00284-8)
+2. AuYoung, Mona, Patricia Rodriguez Espinosa, Wei-ting Chen, **Preeti Juturu**, Maria-Elena De Trinidad Young, 
+Alejandra Casillas, Paris B Adkins-Jackson, Suellen Hopfer, Ed Kissam, Audrey Kawaiopua Alo, Roberto A Vargas, and Arleen F Brown. (2022). “Addressing racial/ethnic inequities in vaccine hesitancy and uptake: Lessons learned from the California Alliance against COVID-19.” Special Issue on Vaccine Hesitancy and Vaccine Confidence, Journal of Behavioral Medicine. 
 
-**Juturu, Preeti**. (2021). "Assessing emergency healthcare accessibility in the Salton Sea region of Imperial County, California." PLOS ONE. [https://doi.org/10.1371/journal.pone.0253301](https://doi.org/10.1371/journal.pone.0253301)
+3. AuYoung, Mona, Patricia Rodriguez Espinosa, Wei-ting Chen, **Preeti Juturu**, Maria-Elena De Trinidad Young, 
+Alejandra Casillas, Paris B Adkins-Jackson, Suellen Hopfer, Ed Kissam, Audrey Kawaiopua Alo, Roberto A Vargas, and Arleen F Brown. (2022). “146 Health equity approach to statewide outreach to under-resourced communities during COVID.” Journal of Clinical and Translational Science.
+
+4. AuYoung, Mona, Patricia Rodriguez Espinosa, Wei-ting Chen, **Preeti Juturu**, Maria-Elena De Trinidad Young, 
+Alejandra Casillas, Paris B Adkins-Jackson, Suellen Hopfer, Ed Kissam, Audrey Kawaiopua Alo, Roberto A Vargas, and Arleen F Brown. (2022). “Building and Supporting A Statewide Coalition Across Sites and Disciplines for Emergency Public Health Response.” Annals of Behavioral Medicine (Vol. 56, No. SUPP 1, pp. S242-S242).
+
+5. Vázquez, Evelyn, **Preeti Juturu**, Michelle Burroughs, Juliet McMullin, Ann M. Cheney. (2022). "Continuum of 
+Trauma: Fear and Mistrust of Institutions in Communities of Color During the COVID-19 Pandemic." Culture, Medicine, and Psychiatry. (Submitted, Under Review)
 
 ### Professional Reports, Media & Other Writing 
 Cheney, Ann, Juliet McMullin, Evelyn Vásquez, Michelle Burroughs, Gabriela Ortiz, Ashley Moran, Salil Trehan, Jenna LeComte-Hinely, Shaleta Smith, Regina Patton Stell, Maria Pozar, Sherri Salgado, **Preeti Juturu**, Cristina Gonzalez and David Lo. (2021). [The STOP COVID-19 CA Project: Factors Shaping COVID-19 Testing and Vaccination in Vulnerable Communities in Inland Southern California, 2021 Qualitative Report.](https://drive.google.com/file/d/17ndaai0T4XZ-0PpOOKpINMMbivc7yY9a/view) Center for Health Disparities Research. University of California Riverside.
@@ -25,11 +36,3 @@ Foruzan, Sahar, **Preeti Juturu**, and Isabelle Swanson. (2021). [Exposing the D
 **Juturu, Preeti**. (2021). [Health Equity Scholar Reflection on the ITUP 2021 Conference](https://healthequity.berkeley.edu/preeti-juturu). California Initiative for Health Equity & Action. University of California, Berkeley. 
 
 Foruzan, Sahar, **Preeti Juturu**, and Isabelle Swanson. (2020). [Exposing the Desert II: Environmental Justice in California’s Desert Wetland](https://storymaps.arcgis.com/stories/d93d73ca89a84023aa09d0a38202daaf). University of California, Riverside Center for Health Disparities Research. 
-
-### Accepted Publications
-AuYoung, Mona, Patricia Rodriguez Espinosa, Wei-ting Chen, **Preeti Juturu**, Maria-Elena De Trinidad Young, Alejandra Casillas, Paris B Adkins-Jackson, Suellen Hopfer, Ed Kissam, Audrey Kawaiopua Alo, Roberto A Vargas, and Arleen F Brown. (2021). "Addressing racial/ethnic inequities in vaccine hesitancy and uptake: Lessons learned from the California Alliance against COVID-19."  Special Issue on Vaccine Hesitancy and Vaccine Confidence, Journal of Behavioral Medicine. Accepted, subject to minor revisions.
-
-### In-Progress Publications
-Lo, David, **Preeti Juturu**, and Isabelle Swanson. “Asthma at the Salton Sea: a model of environmental hazard and health disparities.” In-progress.
-
-Foruzan, Sahar, **Preeti Juturu**, and Isabelle Swanson. “Air quality and environmental health in the Salton Sea region of California: a scoping review.” In-progress.
