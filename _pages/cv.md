@@ -138,6 +138,8 @@ Cheney, Ann, Gabriela Ortiz, Regina Patton-Stell, Maria Polar, **Preeti Juturu**
 Foruzan, Sahar, **Preeti Juturu**, and Isabelle Swanson. (2021). “Story Maps: From a Community Engaged Research Perspective,” Center for Health Disparities Research Annual Symposium, University of California, Riverside. [https://doi.org/10.13140/RG.2.2.25015.65444](https://doi.org/10.13140/RG.2.2.25015.65444)
 
 ### Other Presentations, Panels & Talks   
+"UCLA MCP (Public Health) X UCLA LGBTQ CRC Allyship & Inclusive Language Training", Workshop Training Co-Host. (2023) UCLA Mobile Clinic Project, Public Health Division. University of California, Los Angeles. 
+
 “GIS @ UCR Virtual Panel”, Panel Discussant. (2021) UCR Center for Geospatial Sciences, School of Public Policy, Marlan and Rosemary Bourns College of Engineering, School of Business and Office of Development. University of California, Riverside. 
 
 “Measuring Spatial Accessibility, the PySAL Spatial Access Package and Using Access in Policy Analysis”, Presenter. (2020). UCR Center for Geospatial Sciences. University of California, Riverside. 
